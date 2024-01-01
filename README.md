@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Visit this as website
+
+Visit this app as a web page [here](https://rssinghji.github.io/monsters-rolodex/). If it doesn't show anything, your Javascript setting might be off in the browser. Enable javascript in browser using this [link](https://support.google.com/adsense/answer/12654?hl=en)
+
 ## Available Scripts
 
 In the project directory, you can run:
